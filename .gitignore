@@ -1,0 +1,13 @@
+# Derlenmis ciktilar
+bin/
+out/
+*.class
+
+# Editor / IDE ayarlari
+.vscode/
+.idea/
+*.iml
+
+# Isletim sistemi
+.DS_Store
+Thumbs.db
